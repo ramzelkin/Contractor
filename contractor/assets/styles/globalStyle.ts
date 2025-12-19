@@ -5,6 +5,9 @@ const globalStyle = StyleSheet.create({
   backgroundWhite: {
     backgroundColor: '#ffffff',
   },
+  darkBackground:  {
+    backgroundColor: '#171221',
+  },
   flex: {
     flex: 1,
   },
